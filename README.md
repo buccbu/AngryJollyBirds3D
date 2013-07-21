@@ -1,4 +1,4 @@
-AngryJolieBirds3D
+AngryJollyBirds3D
 =================
 This is the Desktop 3D version of the game Angry Birds. The complete work of this project is and will be done under the flagship of BRAC University Computer Club by a team comprising of bunch of first semester students and a mentor of BRAC University and BRAC University Computer Club.
 
